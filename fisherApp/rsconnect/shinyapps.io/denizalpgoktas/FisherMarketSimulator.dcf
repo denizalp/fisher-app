@@ -1,0 +1,12 @@
+name: FisherMarketSimulator
+title: FisherMarketSimulator
+username:
+account: denizalpgoktas
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2874576
+bundleId: 3664181
+url: https://denizalpgoktas.shinyapps.io/FisherMarketSimulator/
+when: 1600911573.59986
+asMultiple: FALSE
+asStatic: FALSE
